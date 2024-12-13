@@ -12,14 +12,6 @@ This repository showcases an iterative experimentation phase for extracting text
 - **Image Extraction**: Using `PyMuPDF` with optional OCR via Tesseract.
 - **Performance Metrics**: Execution time, memory usage, and extraction accuracy for each method.
 
-### Future Considerations:
-1. Implement and evaluate the pipeline with `PaddleOCR` and `PP-Structure`.
-2. Explore other libraries:
-   - **Unstructured**: Advanced layout and semantic understanding.
-   - **PDFMiner**: Reliable for text extraction and metadata.
-   - **Pdftables**: Specialized for converting tables to structured formats.
-   - **LLMWhisperer**: Experiment with leveraging LLMs for better contextual understanding.
-
 ---
 
 ## Setup
