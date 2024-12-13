@@ -34,6 +34,12 @@ This repository showcases an iterative experimentation phase for extracting text
 3. Run the pipeline see python notebook file to use the code.
    [PDFParser.ipynb](PDFParser.ipynb)
 
+### Results and Extracted Data
+Till now I ran 3 experiments and the results and extracted data are stored in the following folders:
+[Default_Experiment_pymupdf_camelot](Default_Experiment_pymupdf_camelot)
+[Default_Experiment_pypdf_camelot_pymupdf](Default_Experiment_pypdf_camelot_pymupdf)
+[Default_Experiment_pypdf_pdfblumber_pymupdf](Default_Experiment_pypdf_pdfblumber_pymupdf)
+
 ---
 
 ## Results and Observations
