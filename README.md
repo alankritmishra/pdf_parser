@@ -37,7 +37,9 @@ This repository showcases an iterative experimentation phase for extracting text
 ### Results and Extracted Data
 Till now I ran 3 experiments and the results and extracted data are stored in the following folders:
 [Default_Experiment_pymupdf_camelot](Default_Experiment_pymupdf_camelot)
+
 [Default_Experiment_pypdf_camelot_pymupdf](Default_Experiment_pypdf_camelot_pymupdf)
+
 [Default_Experiment_pypdf_pdfblumber_pymupdf](Default_Experiment_pypdf_pdfblumber_pymupdf)
 
 ---
