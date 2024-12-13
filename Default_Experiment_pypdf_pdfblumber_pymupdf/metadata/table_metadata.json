@@ -1,0 +1,310 @@
+{
+  "page_5_item_1": {
+    "extraction_type": "table",
+    "page_number": 5,
+    "item_number": 1,
+    "timestamp": "2024-12-13T01:54:33.842261",
+    "table_number": 1,
+    "page": 5,
+    "dimensions": {
+      "rows": 3,
+      "columns": 3
+    },
+    "csv_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_5_table_1.csv",
+    "json_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_5_table_1.json"
+  },
+  "page_5_item_2": {
+    "extraction_type": "table",
+    "page_number": 5,
+    "item_number": 2,
+    "timestamp": "2024-12-13T01:54:33.848902",
+    "table_number": 2,
+    "page": 5,
+    "dimensions": {
+      "rows": 3,
+      "columns": 3
+    },
+    "csv_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_5_table_2.csv",
+    "json_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_5_table_2.json"
+  },
+  "page_6_item_1": {
+    "extraction_type": "table",
+    "page_number": 6,
+    "item_number": 1,
+    "timestamp": "2024-12-13T01:54:33.955851",
+    "table_number": 1,
+    "page": 6,
+    "dimensions": {
+      "rows": 3,
+      "columns": 3
+    },
+    "csv_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_6_table_1.csv",
+    "json_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_6_table_1.json"
+  },
+  "page_6_item_2": {
+    "extraction_type": "table",
+    "page_number": 6,
+    "item_number": 2,
+    "timestamp": "2024-12-13T01:54:33.957401",
+    "table_number": 2,
+    "page": 6,
+    "dimensions": {
+      "rows": 3,
+      "columns": 3
+    },
+    "csv_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_6_table_2.csv",
+    "json_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_6_table_2.json"
+  },
+  "page_7_item_1": {
+    "extraction_type": "table",
+    "page_number": 7,
+    "item_number": 1,
+    "timestamp": "2024-12-13T01:54:34.186176",
+    "table_number": 1,
+    "page": 7,
+    "dimensions": {
+      "rows": 3,
+      "columns": 3
+    },
+    "csv_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_7_table_1.csv",
+    "json_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_7_table_1.json"
+  },
+  "page_7_item_2": {
+    "extraction_type": "table",
+    "page_number": 7,
+    "item_number": 2,
+    "timestamp": "2024-12-13T01:54:34.188540",
+    "table_number": 2,
+    "page": 7,
+    "dimensions": {
+      "rows": 5,
+      "columns": 12
+    },
+    "csv_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_7_table_2.csv",
+    "json_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_7_table_2.json"
+  },
+  "page_7_item_3": {
+    "extraction_type": "table",
+    "page_number": 7,
+    "item_number": 3,
+    "timestamp": "2024-12-13T01:54:34.192381",
+    "table_number": 3,
+    "page": 7,
+    "dimensions": {
+      "rows": 3,
+      "columns": 3
+    },
+    "csv_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_7_table_3.csv",
+    "json_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_7_table_3.json"
+  },
+  "page_8_item_1": {
+    "extraction_type": "table",
+    "page_number": 8,
+    "item_number": 1,
+    "timestamp": "2024-12-13T01:54:34.327526",
+    "table_number": 1,
+    "page": 8,
+    "dimensions": {
+      "rows": 3,
+      "columns": 3
+    },
+    "csv_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_8_table_1.csv",
+    "json_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_8_table_1.json"
+  },
+  "page_8_item_2": {
+    "extraction_type": "table",
+    "page_number": 8,
+    "item_number": 2,
+    "timestamp": "2024-12-13T01:54:34.329398",
+    "table_number": 2,
+    "page": 8,
+    "dimensions": {
+      "rows": 3,
+      "columns": 3
+    },
+    "csv_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_8_table_2.csv",
+    "json_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_8_table_2.json"
+  },
+  "page_9_item_1": {
+    "extraction_type": "table",
+    "page_number": 9,
+    "item_number": 1,
+    "timestamp": "2024-12-13T01:54:34.462985",
+    "table_number": 1,
+    "page": 9,
+    "dimensions": {
+      "rows": 3,
+      "columns": 3
+    },
+    "csv_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_9_table_1.csv",
+    "json_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_9_table_1.json"
+  },
+  "page_9_item_2": {
+    "extraction_type": "table",
+    "page_number": 9,
+    "item_number": 2,
+    "timestamp": "2024-12-13T01:54:34.465525",
+    "table_number": 2,
+    "page": 9,
+    "dimensions": {
+      "rows": 3,
+      "columns": 3
+    },
+    "csv_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_9_table_2.csv",
+    "json_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_9_table_2.json"
+  },
+  "page_10_item_1": {
+    "extraction_type": "table",
+    "page_number": 10,
+    "item_number": 1,
+    "timestamp": "2024-12-13T01:54:34.726876",
+    "table_number": 1,
+    "page": 10,
+    "dimensions": {
+      "rows": 3,
+      "columns": 3
+    },
+    "csv_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_10_table_1.csv",
+    "json_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_10_table_1.json"
+  },
+  "page_10_item_2": {
+    "extraction_type": "table",
+    "page_number": 10,
+    "item_number": 2,
+    "timestamp": "2024-12-13T01:54:34.728976",
+    "table_number": 2,
+    "page": 10,
+    "dimensions": {
+      "rows": 3,
+      "columns": 3
+    },
+    "csv_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_10_table_2.csv",
+    "json_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_10_table_2.json"
+  },
+  "page_11_item_1": {
+    "extraction_type": "table",
+    "page_number": 11,
+    "item_number": 1,
+    "timestamp": "2024-12-13T01:54:34.983351",
+    "table_number": 1,
+    "page": 11,
+    "dimensions": {
+      "rows": 3,
+      "columns": 3
+    },
+    "csv_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_11_table_1.csv",
+    "json_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_11_table_1.json"
+  },
+  "page_11_item_2": {
+    "extraction_type": "table",
+    "page_number": 11,
+    "item_number": 2,
+    "timestamp": "2024-12-13T01:54:34.985526",
+    "table_number": 2,
+    "page": 11,
+    "dimensions": {
+      "rows": 3,
+      "columns": 3
+    },
+    "csv_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_11_table_2.csv",
+    "json_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_11_table_2.json"
+  },
+  "page_12_item_1": {
+    "extraction_type": "table",
+    "page_number": 12,
+    "item_number": 1,
+    "timestamp": "2024-12-13T01:54:35.267306",
+    "table_number": 1,
+    "page": 12,
+    "dimensions": {
+      "rows": 3,
+      "columns": 3
+    },
+    "csv_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_12_table_1.csv",
+    "json_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_12_table_1.json"
+  },
+  "page_12_item_2": {
+    "extraction_type": "table",
+    "page_number": 12,
+    "item_number": 2,
+    "timestamp": "2024-12-13T01:54:35.269577",
+    "table_number": 2,
+    "page": 12,
+    "dimensions": {
+      "rows": 3,
+      "columns": 3
+    },
+    "csv_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_12_table_2.csv",
+    "json_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_12_table_2.json"
+  },
+  "page_33_item_1": {
+    "extraction_type": "table",
+    "page_number": 33,
+    "item_number": 1,
+    "timestamp": "2024-12-13T01:54:39.116374",
+    "table_number": 1,
+    "page": 33,
+    "dimensions": {
+      "rows": 13,
+      "columns": 42
+    },
+    "csv_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_33_table_1.csv",
+    "json_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_33_table_1.json"
+  },
+  "page_34_item_1": {
+    "extraction_type": "table",
+    "page_number": 34,
+    "item_number": 1,
+    "timestamp": "2024-12-13T01:54:39.284099",
+    "table_number": 1,
+    "page": 34,
+    "dimensions": {
+      "rows": 19,
+      "columns": 19
+    },
+    "csv_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_34_table_1.csv",
+    "json_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_34_table_1.json"
+  },
+  "page_46_item_1": {
+    "extraction_type": "table",
+    "page_number": 46,
+    "item_number": 1,
+    "timestamp": "2024-12-13T01:54:41.148115",
+    "table_number": 1,
+    "page": 46,
+    "dimensions": {
+      "rows": 28,
+      "columns": 13
+    },
+    "csv_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_46_table_1.csv",
+    "json_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_46_table_1.json"
+  },
+  "page_46_item_2": {
+    "extraction_type": "table",
+    "page_number": 46,
+    "item_number": 2,
+    "timestamp": "2024-12-13T01:54:41.150535",
+    "table_number": 2,
+    "page": 46,
+    "dimensions": {
+      "rows": 2,
+      "columns": 1
+    },
+    "csv_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_46_table_2.csv",
+    "json_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_46_table_2.json"
+  },
+  "page_46_item_3": {
+    "extraction_type": "table",
+    "page_number": 46,
+    "item_number": 3,
+    "timestamp": "2024-12-13T01:54:41.157310",
+    "table_number": 3,
+    "page": 46,
+    "dimensions": {
+      "rows": 2,
+      "columns": 1
+    },
+    "csv_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_46_table_3.csv",
+    "json_path": "Default_Experiment_pypdf_pdfblumber_pymupdf/tables/page_46_table_3.json"
+  }
+}

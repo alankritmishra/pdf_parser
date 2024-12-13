@@ -1,0 +1,40 @@
+{
+  "data": [
+    [
+      "",
+      null,
+      null
+    ],
+    [
+      "",
+      "2",
+      ""
+    ],
+    [
+      "",
+      null,
+      null
+    ]
+  ],
+  "columns": [
+    "",
+    null,
+    null
+  ],
+  "rows": [
+    [
+      "",
+      "2",
+      ""
+    ],
+    [
+      "",
+      null,
+      null
+    ]
+  ],
+  "dimensions": {
+    "rows": 3,
+    "columns": 3
+  }
+}

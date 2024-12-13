@@ -1,0 +1,22 @@
+{
+  "data": [
+    [
+      "NEPA Review"
+    ],
+    [
+      "(EIS, EA, or DNA)"
+    ]
+  ],
+  "columns": [
+    "NEPA Review"
+  ],
+  "rows": [
+    [
+      "(EIS, EA, or DNA)"
+    ]
+  ],
+  "dimensions": {
+    "rows": 2,
+    "columns": 1
+  }
+}

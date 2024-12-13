@@ -1,0 +1,44 @@
+USDOI 
+2024–2029 National OCS Oil and Gas Leasing Proposed Final Program 
+BOEM 
+OCS Oil & Gas Leasing Program Development Process 
+1-8 
+September 2023 
+1.2.2 
+Energy Policy Considerations for Net-Zero Pathways 
+EIA’s 2023 AEO data indicate that, absent major policy changes, energy consumption will increase 
+slightly from today, with substantial crude oil and natural gas consumption continuing through 
+2050.  However, the AEO also notes that policies can and often do change, which would result in 
+different future energy patterns.  In viewing policy change within a net-zero framework, the Final 
+Economic Analysis Methodology (EAM) paper (BOEM 2023b) provides additional information on 
+net-zero pathways including Princeton University’s Net-Zero America study (Larson et al. 2021).   
+While there are many factors that play a role in addressing climate impacts and numerous 
+pathways to meet net-zero emissions goals, the Princeton study outlines five domestic pathways 
+that share multiple features but differ in several important respects.  The key differences are the 
+assumptions made about the degree of electrification, supply constraints for various energy 
+sources, and use of carbon sequestration. 
+One example of the differences is the role for nuclear power under some, but not all, of the 
+Princeton pathways.  However, the most critical common feature shared by the Princeton study’s 
+five pathways is the varying role and importance of clean electricity.  Other common features 
+between the pathways include the following: 
+ Coal use is essentially eliminated by 2030 in all pathways with no new capacity added. 
+ Biomass6 expands rapidly after 2030 and is widely used by 2050. 
+ Electricity and hydrogen (H2) use increase across all pathways,7 with H2 from 
+biomass8 being a key and relatively low-carbon fuel using carbon capture technology. 
+ The deployment of agricultural and/or forestry land sink enhancement measures.9 
+All net-zero pathways face challenges in achieving domestic net-zero emissions by 2050.  Of 
+particular importance, and independent of any National OCS Program decision, is the immediate 
+need to mobilize capital and ensure political and public commitment to effectively (1) deploy 
+mature technologies quickly, (2) build key infrastructure, and (3) improve and establish less 
+mature technologies.  For example, three of the five Princeton pathways require an aggressive 
+conversion to electric vehicles by 2050.  This contrasts with EIA’s reference case, where the U.S. 
+only has 15% of light duty transportation electrified by 2050.   
+ 
+6 As defined by the EIA, biomass is “organic non-fossil material of biological origin constituting a renewable energy 
+source.” 
+7 H2 under these pathways can be made by reforming natural gas (without or with CO2 capture), gasifying biomass 
+(with CO2 capture), or electrolyzing water.  Each pathway takes a different approach or combination of approaches. 
+8 Biomass plays a particularly critical role because it removes CO2 from the atmosphere as it grows and can be 
+converted to H2 while capturing and permanently sequestering its carbon. 
+9 “Land sinks” are areas where carbon is removed from the air and permanently stored in soil or trees to offset positive 
+GHG emissions from elsewhere in the economy.  This helps to reduce the cost of emissions reductions. 

@@ -1,0 +1,40 @@
+{
+  "data": [
+    [
+      "",
+      null,
+      null
+    ],
+    [
+      "",
+      "September 2023",
+      ""
+    ],
+    [
+      "",
+      null,
+      null
+    ]
+  ],
+  "columns": [
+    "",
+    null,
+    null
+  ],
+  "rows": [
+    [
+      "",
+      "September 2023",
+      ""
+    ],
+    [
+      "",
+      null,
+      null
+    ]
+  ],
+  "dimensions": {
+    "rows": 3,
+    "columns": 3
+  }
+}

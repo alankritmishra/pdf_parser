@@ -1,0 +1,45 @@
+{
+  "data": [
+    [
+      "USDOI",
+      "2024\u20132029 National OCS Oil and Gas Leasing Proposed Final Program",
+      "BOEM"
+    ],
+    [
+      "12.",
+      "Lease Issuance (30 CFR 556.520-522)\u2014Before a lease can be issued, high bids are",
+      ""
+    ],
+    [
+      "",
+      "subject to evaluation regarding the receipt of fair market value (FMV) and analysis",
+      ""
+    ],
+    [
+      "",
+      "confirming that the award of any tract to the highest bidders in the lease sale would not",
+      ""
+    ],
+    [
+      "",
+      "create or maintain a situation inconsistent with anti-trust laws.  BOEM will issue a lease",
+      ""
+    ],
+    [
+      "",
+      "following completion of its FMV analysis and the anti-trust review conducted by the",
+      ""
+    ],
+    [
+      "",
+      "Department of Justice in consultation with the Federal Trade Commission.",
+      ""
+    ]
+  ],
+  "parsing_report": {
+    "accuracy": 98.55,
+    "whitespace": 52.38,
+    "order": 1,
+    "page": 52
+  }
+}

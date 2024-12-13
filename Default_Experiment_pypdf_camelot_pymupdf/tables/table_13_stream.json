@@ -1,0 +1,25 @@
+{
+  "data": [
+    [
+      "2024\u20132029"
+    ],
+    [
+      "NATIONAL OUTER CONTINENTAL SHELF"
+    ],
+    [
+      "OIL AND GAS LEASING"
+    ],
+    [
+      "Proposed Final Program"
+    ],
+    [
+      "September 2023"
+    ]
+  ],
+  "parsing_report": {
+    "accuracy": 100.0,
+    "whitespace": 0.0,
+    "order": 1,
+    "page": 2
+  }
+}

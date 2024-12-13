@@ -1,0 +1,13 @@
+pymupdf
+camelot-py
+opencv-python
+pandas
+pillow
+unstructured
+langchain-community
+psutil
+ghostscript
+pi-heif
+pytesseract
+poppler-utils
+pdfplumber

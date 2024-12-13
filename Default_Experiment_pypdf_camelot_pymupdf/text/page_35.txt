@@ -1,0 +1,26 @@
+USDOI 2024–2029 National OCS Oil and Gas Leasing Proposed Final Program BOEM 
+OCS Oil & Gas Leasing Program Development Process 1-6 September 2023 
+As described, the AEO highlights the projections’ uncertainty and the various assumptions that 
+could impact the results.  Figure 1-4 shows EIA’s forecasted uncertainty cone around future 
+petroleum and other liquids consumption and production.  For demand, assumptions including 
+low economic growth and low costs of zero-cost carbon technologies result in the largest decline 
+in petroleum and other liquids use through 2050.   
+Figure 1-4:  Petroleum and Other Liquids―Consumption and Production 
+ 
+Source: EIA (2023c).  Reprinted with permission. 
+Figure 1-5 shows EIA’s projections of total energy consumption by source between 2022 and 
+2050.  Although the petroleum and natural gas share of overall energy consumption shrinks from 
+2022 to 2050, both still represent a substantial share of consumption.  The renewable energy 
+share of energy consumption greatly increases by 2050, while the shares of nuclear and coal 
+significantly shrink.  Section 6.2.1 provides more information on crude oil and natural gas 
+consumption. 
+As a result of the energy consumption and energy mix changes, the 2023 AEO projects lower 
+carb
+on dioxide (CO2) emissions by 2050 in its reference case (see Figure 1-6).  The increase in 
+renewable energy technologies, increased electrification, and more efficient equipment leads to 
+emissions reductions; however, this reduction is offset by the EIA’s forecast of longer-term 
+growth in transportation and industrial activity (EIA 2023b). 
+For the various side cases, the AEO projects that energy-relat ed CO2 emissions could range from 
+25% to 38% below 2005 levels by 2030.  The AEO shows that long-term assumptions for 
+economic growth and the cost of zero-carbon generation technology are the most significant 
+drivers in emissions reductions. 

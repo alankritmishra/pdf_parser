@@ -1,0 +1,512 @@
+{
+  "pdf_file": "2024-2029_NationalOCSProgram_PFP_Sept_2023_Compliant_distilled.pdf",
+  "timestamp": "2024-12-13T01:54:56.019691",
+  "methods_used": {
+    "text": "pypdf",
+    "tables": "pdfplumber",
+    "images": "pymupdf"
+  },
+  "statistics": {
+    "text": {
+      "method": "pypdf",
+      "start_time": "2024-12-13 01:54:30.921521",
+      "end_time": "2024-12-13 01:54:33.508586",
+      "execution_time": 2.58707,
+      "memory_usage_mb": -239.99609375,
+      "num_pages": 53,
+      "items_extracted": 53,
+      "success": true,
+      "error_message": null,
+      "additional_info": {
+        "page_1": {
+          "word_count": 0,
+          "char_count": 0
+        },
+        "page_2": {
+          "word_count": 14,
+          "char_count": 110
+        },
+        "page_3": {
+          "word_count": 25,
+          "char_count": 245
+        },
+        "page_4": {
+          "word_count": 0,
+          "char_count": 0
+        },
+        "page_5": {
+          "word_count": 534,
+          "char_count": 3581
+        },
+        "page_6": {
+          "word_count": 232,
+          "char_count": 1457
+        },
+        "page_7": {
+          "word_count": 419,
+          "char_count": 2703
+        },
+        "page_8": {
+          "word_count": 283,
+          "char_count": 1965
+        },
+        "page_9": {
+          "word_count": 293,
+          "char_count": 1974
+        },
+        "page_10": {
+          "word_count": 613,
+          "char_count": 4032
+        },
+        "page_11": {
+          "word_count": 620,
+          "char_count": 4117
+        },
+        "page_12": {
+          "word_count": 370,
+          "char_count": 2820
+        },
+        "page_13": {
+          "word_count": 0,
+          "char_count": 0
+        },
+        "page_14": {
+          "word_count": 430,
+          "char_count": 2763
+        },
+        "page_15": {
+          "word_count": 247,
+          "char_count": 1560
+        },
+        "page_16": {
+          "word_count": 42,
+          "char_count": 289
+        },
+        "page_17": {
+          "word_count": 349,
+          "char_count": 6415
+        },
+        "page_18": {
+          "word_count": 347,
+          "char_count": 7039
+        },
+        "page_19": {
+          "word_count": 334,
+          "char_count": 6851
+        },
+        "page_20": {
+          "word_count": 293,
+          "char_count": 7240
+        },
+        "page_21": {
+          "word_count": 324,
+          "char_count": 6118
+        },
+        "page_22": {
+          "word_count": 512,
+          "char_count": 5967
+        },
+        "page_23": {
+          "word_count": 513,
+          "char_count": 6512
+        },
+        "page_24": {
+          "word_count": 59,
+          "char_count": 671
+        },
+        "page_25": {
+          "word_count": 228,
+          "char_count": 1563
+        },
+        "page_26": {
+          "word_count": 216,
+          "char_count": 1602
+        },
+        "page_27": {
+          "word_count": 197,
+          "char_count": 1430
+        },
+        "page_28": {
+          "word_count": 141,
+          "char_count": 932
+        },
+        "page_29": {
+          "word_count": 0,
+          "char_count": 0
+        },
+        "page_30": {
+          "word_count": 459,
+          "char_count": 2822
+        },
+        "page_31": {
+          "word_count": 176,
+          "char_count": 1162
+        },
+        "page_32": {
+          "word_count": 493,
+          "char_count": 3226
+        },
+        "page_33": {
+          "word_count": 272,
+          "char_count": 1905
+        },
+        "page_34": {
+          "word_count": 307,
+          "char_count": 2031
+        },
+        "page_35": {
+          "word_count": 281,
+          "char_count": 1932
+        },
+        "page_36": {
+          "word_count": 66,
+          "char_count": 491
+        },
+        "page_37": {
+          "word_count": 500,
+          "char_count": 3357
+        },
+        "page_38": {
+          "word_count": 454,
+          "char_count": 2961
+        },
+        "page_39": {
+          "word_count": 458,
+          "char_count": 3090
+        },
+        "page_40": {
+          "word_count": 498,
+          "char_count": 3331
+        },
+        "page_41": {
+          "word_count": 462,
+          "char_count": 3077
+        },
+        "page_42": {
+          "word_count": 423,
+          "char_count": 2684
+        },
+        "page_43": {
+          "word_count": 35,
+          "char_count": 229
+        },
+        "page_44": {
+          "word_count": 193,
+          "char_count": 1219
+        },
+        "page_45": {
+          "word_count": 536,
+          "char_count": 3438
+        },
+        "page_46": {
+          "word_count": 380,
+          "char_count": 2619
+        },
+        "page_47": {
+          "word_count": 444,
+          "char_count": 3009
+        },
+        "page_48": {
+          "word_count": 476,
+          "char_count": 3152
+        },
+        "page_49": {
+          "word_count": 364,
+          "char_count": 2378
+        },
+        "page_50": {
+          "word_count": 467,
+          "char_count": 3145
+        },
+        "page_51": {
+          "word_count": 506,
+          "char_count": 3263
+        },
+        "page_52": {
+          "word_count": 442,
+          "char_count": 2896
+        },
+        "page_53": {
+          "word_count": 202,
+          "char_count": 1481
+        }
+      }
+    },
+    "tables": {
+      "method": "pdfplumber",
+      "start_time": "2024-12-13 01:54:33.510590",
+      "end_time": "2024-12-13 01:54:42.199050",
+      "execution_time": 8.688463,
+      "memory_usage_mb": 127.0546875,
+      "num_pages": 11,
+      "items_extracted": 22,
+      "success": true,
+      "error_message": null,
+      "additional_info": {
+        "table_5_1": {
+          "rows": 2,
+          "columns": 3
+        },
+        "table_5_2": {
+          "rows": 2,
+          "columns": 3
+        },
+        "table_6_1": {
+          "rows": 2,
+          "columns": 3
+        },
+        "table_6_2": {
+          "rows": 2,
+          "columns": 3
+        },
+        "table_7_1": {
+          "rows": 2,
+          "columns": 3
+        },
+        "table_7_2": {
+          "rows": 4,
+          "columns": 12
+        },
+        "table_7_3": {
+          "rows": 2,
+          "columns": 3
+        },
+        "table_8_1": {
+          "rows": 2,
+          "columns": 3
+        },
+        "table_8_2": {
+          "rows": 2,
+          "columns": 3
+        },
+        "table_9_1": {
+          "rows": 2,
+          "columns": 3
+        },
+        "table_9_2": {
+          "rows": 2,
+          "columns": 3
+        },
+        "table_10_1": {
+          "rows": 2,
+          "columns": 3
+        },
+        "table_10_2": {
+          "rows": 2,
+          "columns": 3
+        },
+        "table_11_1": {
+          "rows": 2,
+          "columns": 3
+        },
+        "table_11_2": {
+          "rows": 2,
+          "columns": 3
+        },
+        "table_12_1": {
+          "rows": 2,
+          "columns": 3
+        },
+        "table_12_2": {
+          "rows": 2,
+          "columns": 3
+        },
+        "table_33_1": {
+          "rows": 12,
+          "columns": 42
+        },
+        "table_34_1": {
+          "rows": 18,
+          "columns": 19
+        },
+        "table_46_1": {
+          "rows": 27,
+          "columns": 13
+        },
+        "table_46_2": {
+          "rows": 1,
+          "columns": 1
+        },
+        "table_46_3": {
+          "rows": 1,
+          "columns": 1
+        }
+      }
+    },
+    "images": {
+      "method": "pymupdf",
+      "start_time": "2024-12-13 01:54:42.200156",
+      "end_time": "2024-12-13 01:54:56.016709",
+      "execution_time": 13.816557,
+      "memory_usage_mb": 201.9609375,
+      "num_pages": 22,
+      "items_extracted": 27,
+      "success": true,
+      "error_message": null,
+      "additional_info": {
+        "image_1_1": {
+          "size": 2655439,
+          "dimensions": "1500x1941",
+          "format": "JPEG",
+          "ocr_confidence": 44.76744186046512
+        },
+        "image_2_1": {
+          "size": 136603,
+          "dimensions": "459x459",
+          "format": "PNG",
+          "ocr_confidence": 18.2
+        },
+        "image_2_2": {
+          "size": 5281,
+          "dimensions": "500x240",
+          "format": "PNG",
+          "ocr_confidence": -1.0
+        },
+        "image_3_1": {
+          "size": 44796,
+          "dimensions": "264x254",
+          "format": "PNG",
+          "ocr_confidence": 18.2
+        },
+        "image_4_1": {
+          "size": 3740143,
+          "dimensions": "1500x1941",
+          "format": "JPEG",
+          "ocr_confidence": 49.64705882352941
+        },
+        "image_6_1": {
+          "size": 655316,
+          "dimensions": "2259x2161",
+          "format": "PNG",
+          "ocr_confidence": 57.94736842105263
+        },
+        "image_8_1": {
+          "size": 471711,
+          "dimensions": "1232x902",
+          "format": "PNG",
+          "ocr_confidence": 59.36619718309859
+        },
+        "image_9_1": {
+          "size": 519170,
+          "dimensions": "1232x902",
+          "format": "PNG",
+          "ocr_confidence": 46.660633484162894
+        },
+        "image_13_1": {
+          "size": 3818037,
+          "dimensions": "1500x1941",
+          "format": "JPEG",
+          "ocr_confidence": 47.1578947368421
+        },
+        "image_14_1": {
+          "size": 29446,
+          "dimensions": "1012x102",
+          "format": "PNG",
+          "ocr_confidence": 37.44444444444444
+        },
+        "image_16_1": {
+          "size": 933448,
+          "dimensions": "1416x1833",
+          "format": "JPEG",
+          "ocr_confidence": 54.81767955801105
+        },
+        "image_29_1": {
+          "size": 3978861,
+          "dimensions": "1500x1941",
+          "format": "JPEG",
+          "ocr_confidence": 41.96296296296296
+        },
+        "image_30_1": {
+          "size": 15494,
+          "dimensions": "992x98",
+          "format": "PNG",
+          "ocr_confidence": -1.0
+        },
+        "image_30_2": {
+          "size": 18691,
+          "dimensions": "255x55",
+          "format": "JPEG",
+          "ocr_confidence": 31.166666666666668
+        },
+        "image_30_3": {
+          "size": 111421,
+          "dimensions": "1417x57",
+          "format": "JPEG",
+          "ocr_confidence": 62.416666666666664
+        },
+        "image_31_1": {
+          "size": 1308142,
+          "dimensions": "1345x1037",
+          "format": "JPEG",
+          "ocr_confidence": 37.113846153846154
+        },
+        "image_35_1": {
+          "size": 72452,
+          "dimensions": "1381x665",
+          "format": "PNG",
+          "ocr_confidence": 72.7741935483871
+        },
+        "image_36_1": {
+          "size": 100628,
+          "dimensions": "1596x947",
+          "format": "PNG",
+          "ocr_confidence": 43.24812030075188
+        },
+        "image_36_2": {
+          "size": 2987,
+          "dimensions": "169x144",
+          "format": "PNG",
+          "ocr_confidence": 44.84
+        },
+        "image_36_3": {
+          "size": 51620,
+          "dimensions": "1150x585",
+          "format": "PNG",
+          "ocr_confidence": 62.45112781954887
+        },
+        "image_37_1": {
+          "size": 3342,
+          "dimensions": "67x38",
+          "format": "JPEG",
+          "ocr_confidence": -1.0
+        },
+        "image_41_1": {
+          "size": 3342,
+          "dimensions": "67x38",
+          "format": "JPEG",
+          "ocr_confidence": -1.0
+        },
+        "image_43_1": {
+          "size": 398559,
+          "dimensions": "1902x983",
+          "format": "PNG",
+          "ocr_confidence": 47.84285714285714
+        },
+        "image_44_1": {
+          "size": 660870,
+          "dimensions": "2528x2202",
+          "format": "PNG",
+          "ocr_confidence": 59.48351648351648
+        },
+        "image_49_1": {
+          "size": 92535,
+          "dimensions": "1967x377",
+          "format": "PNG",
+          "ocr_confidence": 40.05882352941177
+        },
+        "image_52_1": {
+          "size": 89756,
+          "dimensions": "1720x237",
+          "format": "PNG",
+          "ocr_confidence": 20.333333333333332
+        },
+        "image_53_1": {
+          "size": 49049,
+          "dimensions": "1720x238",
+          "format": "PNG",
+          "ocr_confidence": 68.82978723404256
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "text_extracted": 53,
+  "tables_extracted": 64,
+  "images_extracted": 27,
+  "output_directory": "Default_Experiment_pypdf_camelot_pymupdf"
+}

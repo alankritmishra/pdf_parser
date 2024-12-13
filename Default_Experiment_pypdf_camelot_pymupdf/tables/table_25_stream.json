@@ -1,0 +1,35 @@
+{
+  "data": [
+    [
+      "USDOI",
+      "2024\u20132029 National OCS Oil and Gas Leasing Proposed Final Program",
+      "BOEM"
+    ],
+    [
+      "",
+      "Figure 1:  Part II Document Organization",
+      ""
+    ],
+    [
+      "Note: Not shown on this graphic are Appendix B: Appropriations and Staffing Estimates, Appendix C: Glossary, and",
+      "",
+      ""
+    ],
+    [
+      "Appendix D: References.",
+      "",
+      ""
+    ],
+    [
+      "Overview",
+      "iii",
+      "September 2023"
+    ]
+  ],
+  "parsing_report": {
+    "accuracy": 88.9,
+    "whitespace": 40.0,
+    "order": 1,
+    "page": 16
+  }
+}

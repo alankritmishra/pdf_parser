@@ -1,0 +1,25 @@
+{
+  "data": [
+    [
+      "USDOI",
+      "2024\u20132029 National OCS Oil and Gas Leasing Proposed Final Program",
+      "BOEM"
+    ],
+    [
+      "",
+      "Figure 1-7:  National OCS Oil & Gas Leasing Program and Development Process",
+      ""
+    ],
+    [
+      "OCS Oil & Gas Leasing Program Development Process",
+      "1-14",
+      "September 2023"
+    ]
+  ],
+  "parsing_report": {
+    "accuracy": 98.25,
+    "whitespace": 22.22,
+    "order": 1,
+    "page": 43
+  }
+}

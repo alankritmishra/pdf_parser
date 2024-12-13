@@ -1,0 +1,150 @@
+{
+  "data": [
+    [
+      "Count",
+      null,
+      null,
+      "",
+      "Sale",
+      "",
+      "",
+      "Sale",
+      "",
+      "OCS Region and Program Area",
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      "Number",
+      null,
+      null,
+      "Year",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "",
+      "1",
+      "",
+      "",
+      "262",
+      "",
+      "",
+      "2025",
+      "",
+      "",
+      "Gulf of Mexico: GOM Program Area",
+      ""
+    ],
+    [
+      "2",
+      null,
+      null,
+      "263",
+      null,
+      null,
+      "2027",
+      null,
+      null,
+      "Gulf of Mexico: GOM Program Area",
+      null,
+      null
+    ],
+    [
+      "",
+      "3",
+      "",
+      "",
+      "264",
+      "",
+      "",
+      "2029",
+      "",
+      "",
+      "Gulf of Mexico: GOM Program Area",
+      ""
+    ]
+  ],
+  "columns": [
+    "Count",
+    null,
+    null,
+    "",
+    "Sale",
+    "",
+    "",
+    "Sale",
+    "",
+    "OCS Region and Program Area",
+    null,
+    null
+  ],
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      "Number",
+      null,
+      null,
+      "Year",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "",
+      "1",
+      "",
+      "",
+      "262",
+      "",
+      "",
+      "2025",
+      "",
+      "",
+      "Gulf of Mexico: GOM Program Area",
+      ""
+    ],
+    [
+      "2",
+      null,
+      null,
+      "263",
+      null,
+      null,
+      "2027",
+      null,
+      null,
+      "Gulf of Mexico: GOM Program Area",
+      null,
+      null
+    ],
+    [
+      "",
+      "3",
+      "",
+      "",
+      "264",
+      "",
+      "",
+      "2029",
+      "",
+      "",
+      "Gulf of Mexico: GOM Program Area",
+      ""
+    ]
+  ],
+  "dimensions": {
+    "rows": 5,
+    "columns": 12
+  }
+}

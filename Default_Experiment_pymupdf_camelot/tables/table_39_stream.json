@@ -1,0 +1,86 @@
+{
+  "data": [
+    [
+      "USDOI",
+      "2024\u20132029 National OCS Oil and Gas Leasing Proposed Final Program \nBOEM"
+    ],
+    [
+      "Second Proposal",
+      "Second decision on the proposed schedule of lease sales based on"
+    ],
+    [
+      "",
+      "the Proposed Program analysis"
+    ],
+    [
+      "Secretary",
+      "Secretary of the Interior"
+    ],
+    [
+      "Tcf",
+      "trillion cubic feet"
+    ],
+    [
+      "t C km-2 yr-1",
+      "metric tons of carbon per square kilometer per year"
+    ],
+    [
+      "UERR",
+      "undiscovered economically recoverable resources"
+    ],
+    [
+      "UNCLOS",
+      "United Nations Convention on the Law of the Sea"
+    ],
+    [
+      "U.S.",
+      "United States"
+    ],
+    [
+      "U.S.C.",
+      "United States Code"
+    ],
+    [
+      "USCG",
+      "United States Coast Guard"
+    ],
+    [
+      "USDOI",
+      "United States Department of the Interior"
+    ],
+    [
+      "USFWS",
+      "United States Fish and Wildlife Service"
+    ],
+    [
+      "UTRR",
+      "undiscovered technically recoverable resources"
+    ],
+    [
+      "VGPM",
+      "Vertically Generalized Production Model"
+    ],
+    [
+      "Watt I",
+      "California v. Watt, 688 F.2d 1290 (D.C. Cir. 1981)"
+    ],
+    [
+      "Watt II",
+      "California v. Watt, 712 F.2d 584 (D.C. Cir. 1983)"
+    ],
+    [
+      "WEA",
+      "wind energy area"
+    ],
+    [
+      "WEB3",
+      "When Exploration Begins model, version 3"
+    ]
+  ],
+  "parsing_report": {
+    "accuracy": 99.96,
+    "whitespace": 2.63,
+    "order": 1,
+    "page": 28
+  }
+}
