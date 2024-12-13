@@ -31,9 +31,9 @@ This repository showcases an iterative experimentation phase for extracting text
 
 1. Update the `pdf_path` with your PDF file.
 2. Modify `EXPERIMENT_NAME` and extraction methods as needed.
-3. Run the pipeline:
-   ```bash
-   python pdf_parser.py
+3. Run the pipeline see python notebook file to use the code.
+   ```
+   PDFParser.ipynb
    ```
 
 ---
